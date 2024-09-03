@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second year student at Polytechnique Montréal, I'm addicted to gambling
+Second-year software engineering student at Polytechnique Montréal
 
 
 # 💻 Tech Stack:
