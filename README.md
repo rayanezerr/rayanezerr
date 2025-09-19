@@ -1,5 +1,5 @@
 # 💫 About Me:
-Second-year software engineering student at Polytechnique Montréal
+Third-year software engineering student at Polytechnique Montréal
 
 
 # 💻 Tech Stack:
